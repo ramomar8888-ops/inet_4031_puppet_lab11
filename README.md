@@ -7,7 +7,7 @@ This repository contains Puppet manifests used to automate system configuration 
 
 The project includes
 
-User and group management using Puppet
+-User and group management using Puppet
 Automated deployment of a LAMP stack (Linux, Apache, MySQL/MariaDB, PHP)
 Technologies Used
 Ubuntu 24.04
